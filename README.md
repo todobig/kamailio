@@ -1,0 +1,2 @@
+# kamailio
+kamailio scripts
