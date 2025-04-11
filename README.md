@@ -30,3 +30,6 @@ This script automates the installation of **Kamailio SIP Server** and essential 
 ```bash
 git clone https://github.com/todobig/kamailio.git
 cd kamailio
+chmod +x installOnUbuntu24.04.sh
+sudo ./installOnUbuntu24.04.sh
+
